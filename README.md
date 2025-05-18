@@ -5,4 +5,3 @@ Integrantes:
 - Efrain Tolentino
 - Kevin Davila
 - Jhonatan Najarro
-- efra
